@@ -1,5 +1,12 @@
-# Kokoa Clone 2021 
+# Kokoa Clone 2021
 
-Noamd Coders kokoa clone lecture practice!
+노마드 코더 코코아톡 클론코딩 강의 수강 완료
 
-Train Hard, Dream Big.
+목표 : HTML, CSS 기초 익히기
+
+기간 : 2021.09.10 ~ 2021.09.16
+
+느낀점 :
+첫 웹 제작에 대한 기초 공부를 시작하며 해당 강의를 접했는데,
+모든 것을 외우려 하기 보단 어떠한 것이 있고 검색할 수 있을 정도로만 이해하고 넘어가는 정도로 충분하다는 걸 깨달았다.
+특히 CSS는 연습량이 곧 실력인 것 같다.
